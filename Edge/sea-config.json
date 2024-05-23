@@ -1,0 +1,5 @@
+{
+    "main": "scrape_edge_out.js",
+    "output": "sea-prep.blob",
+    "disableExperimentalSEAWarning": true
+}
